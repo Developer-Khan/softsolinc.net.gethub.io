@@ -1,0 +1,1307 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "BizNext",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial Slider Block ( Home 01 )",
+            "screenshot": "screenshots\/testimonial-slider-block-home-01-.jpg",
+            "source": "templates\/testimonial-slider-block-home-01-.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/testimonial-slider-block-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial Slider Block ( About Page )",
+            "screenshot": "screenshots\/testimonial-slider-block-about-page-.jpg",
+            "source": "templates\/testimonial-slider-block-about-page-.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/testimonial-slider-block-about-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Style 2",
+            "screenshot": "screenshots\/about-style-2.jpg",
+            "source": "templates\/about-style-2.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/about-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Style 2",
+            "screenshot": "screenshots\/services-style-2.jpg",
+            "source": "templates\/services-style-2.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/services-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Member",
+            "screenshot": "screenshots\/team-member.jpg",
+            "source": "templates\/team-member.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/team-member\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Table",
+            "screenshot": "screenshots\/pricing-table.jpg",
+            "source": "templates\/pricing-table.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/pricing-table\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/themesflat.com\/wordpress\/biznext\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.1",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "reviews-item-1-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/reviews-item-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-slider-block-home-01-.json",
+                    "name": "Testimonial Slider Block ( Home 01 )"
+                }
+            ],
+            "filesize": 29384,
+            "dimensions": [
+                112,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team-1-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-slider-block-about-page-.json",
+                    "name": "Testimonial Slider Block ( About Page )"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 395922,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "slide3-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/slide3-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                },
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 191649,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-and-chatting-at-workpla-KRXGD36"
+        },
+        {
+            "filename": "slide4-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/slide4-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 190600,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-couple-sitting-at-tourist-agency-and-talking-VSKPF75"
+        },
+        {
+            "filename": "innovative-bg.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/innovative-bg-600x247.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 154493,
+            "dimensions": [
+                6000,
+                2471
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mask-medium.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/mask-medium.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 4766,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "mask-big.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/mask-big.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 5349,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "mask-smoll.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/mask-smoll.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                }
+            ],
+            "filesize": 4293,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "sh-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/sh-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 386844,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-in-office-3QHPJ45"
+        },
+        {
+            "filename": "sh-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/sh-2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 457284,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/picture-of-perspective-designers-using-tablet-in-o-58MSUQ2"
+        },
+        {
+            "filename": "sh-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/sh-3-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 354836,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-in-office-NHF9P7U"
+        },
+        {
+            "filename": "p1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p1-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 142865,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p2-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 76488,
+            "dimensions": [
+                960,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p3-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 184027,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 9663,
+            "dimensions": [
+                162,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 8709,
+            "dimensions": [
+                163,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 10946,
+            "dimensions": [
+                163,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 15340,
+            "dimensions": [
+                163,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 8693,
+            "dimensions": [
+                163,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "brand-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/brand-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-style-2.json",
+                    "name": "About Style 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-style-2.json",
+                    "name": "Services Style 2"
+                }
+            ],
+            "filesize": 12157,
+            "dimensions": [
+                162,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "team-2-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 327742,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team-3-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 332737,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "logo-inversed.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/logo-inversed.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3937,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "h-6-hero.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 25634,
+            "dimensions": [
+                585,
+                629
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "h-6-soft.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-soft.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 22118,
+            "dimensions": [
+                488,
+                332
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "h-6-about.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-about.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 36526,
+            "dimensions": [
+                585,
+                449
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "h-6-we-work.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-we-work.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 36092,
+            "dimensions": [
+                555,
+                363
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "team-02-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team-02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 48843,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "h-4-feed-item-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-4-feed-item-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 44613,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "h-6-news.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-news.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 14677,
+            "dimensions": [
+                255,
+                241
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "h-6-news-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-news-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 23519,
+            "dimensions": [
+                266,
+                219
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "h-6-news-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/h-6-news-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 33406,
+            "dimensions": [
+                271,
+                219
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3868,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ssquare1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/ssquare1-600x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 61584,
+            "dimensions": [
+                855,
+                593
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-in-office-NHF9P7U"
+        },
+        {
+            "filename": "ssquare2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/ssquare2-600x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 89351,
+            "dimensions": [
+                855,
+                593
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-and-chatting-at-workpla-KRXGD36"
+        },
+        {
+            "filename": "ssquare3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/ssquare3-600x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 84116,
+            "dimensions": [
+                855,
+                593
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/picture-of-business-colleagues-talking-in-office-F6K7LCB"
+        },
+        {
+            "filename": "team4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 119101,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 158493,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/team6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-member.json",
+                    "name": "Team Member"
+                }
+            ],
+            "filesize": 109237,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "p4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p4-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 38932,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p5-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 20964,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p6-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p6-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 197116,
+            "dimensions": [
+                1204,
+                804
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/woman-using-calendar-minimal-style-5H96RCL"
+        },
+        {
+            "filename": "p1.jpeg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p1-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 56206,
+            "dimensions": [
+                1350,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p3.jpeg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p3-600x900.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 39267,
+            "dimensions": [
+                634,
+                951
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "p4.jpeg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/p4-600x900.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 24522,
+            "dimensions": [
+                634,
+                951
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "iStock.com"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/3-600x438.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 431927,
+            "dimensions": [
+                720,
+                525
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-stationary-PZJKW2P"
+        },
+        {
+            "filename": "bg-footer.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/wordpress\/biznext\/wp-content\/uploads\/2020\/07\/bg-footer-600x124.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 23499,
+            "dimensions": [
+                1920,
+                398
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
